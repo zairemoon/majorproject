@@ -83,7 +83,7 @@ function Recipe(recipeTitle, recipeImageSrc, recipeContributor, recipeSubtitle, 
 spinachDip = new Recipe(
   "Spinach Dip",
   "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
-  "Contributed By: Michelle Barr",
+  "Contributed by Michelle Barr",
   "Holiday Hot Spinach Dip",
   "spinachDip",
 );
@@ -91,7 +91,7 @@ spinachDip = new Recipe(
 bakedBrie = new Recipe(
   "Baked Brie",
   "https://images.unsplash.com/photo-1597715293892-3adab9fcb33d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
-  "Contributed By: Chef John",
+  "Contributed by Chef John",
   "Baked Stuffed Brie with Cranberries & Walnuts",
   "bakedBrie",
 );
@@ -99,56 +99,106 @@ bakedBrie = new Recipe(
 candiedPecans = new Recipe(
   "Candied Pecans",
   "https://images.unsplash.com/photo-1580691154746-88bedf3c1e47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
-  "Contributed By: Alix",
-  "",
+  "Contributed by Alix",
+  "Sweet & Salty Candied Pecans",
   "candiedPecans"
 )
 
 grinchKabobs = new Recipe(
   "Grinch Kabobs",
   "https://images.unsplash.com/photo-1580691155297-c6dfa3ca61c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-  "Contributed By: CNM Catering",
-  "",
+  "Contributed by CNM Catering",
+  "Delicious Holiday Snack",
   "grinchKabobs"
 )
 
 puffPastry = new Recipe(
   "Puff Pastry",
   "https://images.unsplash.com/photo-1638839097440-bed9a9e1473a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
-  "Contributed By: Tea",
-  "Spinach and Ricotta Puff Pastry Christmas Tree",
+  "Contributed by Tea",
+  "Spinach & Ricotta Puff Pastry Christmas Tree",
   "puffPastry"
 )
 
 roastTurkey = new Recipe(
+  "Roast Turkey",
+  "https://images.unsplash.com/photo-1574672281194-db420378032d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+  "Contributed by Syd",
+  "A Simply Perfect Roast Turkey",
   "roastTurkey",
 )
 
 honeyHam = new Recipe(
+  "Honey Ham",
+  "https://images.unsplash.com/photo-1605926637412-b0cd5a3e3543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2825&q=80",
+  "Contributed by Colleen",
+  "Honey Glazed Ham",
   "honeyHam",
 )
 
 primeRib = new Recipe(
+  "Prime Rib",
+  "https://images.unsplash.com/photo-1625604087024-7fb428fc4626?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+  "Contributed by Judy2River",
+  "Christmas Prime Rib",
   "primeRib",
 )
 
-pork = new Recipe(
-  "pork",
+choppedPork = new Recipe(
+  "Pork Chops",
+  "https://images.unsplash.com/photo-1622052073730-04bbc497be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2114&q=80",
+  "Contributed by AllRecipesMember",
+  "Caramel Apple Pork Chops",
+  "choppedPork",
 )
 
-roast = new Recipe(
-  "roast",
+roastRib = new Recipe(
+  "Roast",
+  "https://images.unsplash.com/photo-1594041680534-e8c8cdebd659?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2367&q=80",
+  "Contributed by Salsiepie",
+  "Fullproof Rib Roast",
+  "roastRib",
 )
 
+gratinPotato = new Recipe(
+  "Au Gratin Potatos",
+  "https://images.unsplash.com/photo-1508313880080-c4bef0730395?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2272&q=80",
+  "Contributed by Cathy Martin",
+  "Creamy Au Gratin Potatoes",
+  "gratinPotato",
+)
 
+greenBean = new Recipe(
+  "Green Bean Casserole",
+  "https://images.unsplash.com/uploads/141143339879512fe9b0d/f72e2c85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+  "Contributed by Jan",
+  "Best Green Bean Casserole",
+  "greenBean",
+)
 
+sweetPotato = new Recipe(
+  "Sweet Potatoes",
+  "https://images.unsplash.com/photo-1541809570-35dcc3a080c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1625&q=80",
+  "Contributed by Michelle Rene",
+  "Classic Candied Sweet Potatoes",
+  "sweetPotato",
+)
 
+redPotato = new Recipe(
+  "Garlic Potatoes",
+  "https://images.unsplash.com/photo-1631898039984-fd5f61fe8732?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+  "Contributed by Shawnah",
+  "Red Garlic Mashed Potatoes",
+  "redPotato",
+)
 
-
-
-
-
-
+MacCheese = new Recipe(
+  "Mac and Cheese",
+  "https://images.unsplash.com/photo-1612152328178-4a6c83d96429?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2825&q=80",
+  "Contributed by Judy",
+  "Homemade Mac & Cheese",
+  "MacCheese",
+)
 
 window.onload = function() {
 
@@ -179,10 +229,10 @@ window.onload = function() {
     primeRib.displayRecipe();
   }
   document.querySelector("#entreeRecipe4").onclick = function() {
-    pork.displayRecipe();
+    choppedPork.displayRecipe();
   }
   document.querySelector("#entreeRecipe5").onclick = function() {
-    roast.displayRecipe();
+    roastRib.displayRecipe();
   }
 
 
@@ -199,47 +249,41 @@ window.onload = function() {
     redPotato.displayRecipe();
   }
   document.querySelector("#sideRecipe5").onclick = function() {
-    Mac.displayRecipe();
+    MacCheese.displayRecipe();
   }
 
 
   document.querySelector("#dessertRecipe1").onclick = function() {
-    pie.displayRecipe();
+    piePumpkin.displayRecipe();
   }
   document.querySelector("#dessertRecipe2").onclick = function() {
-    cookies.displayRecipe();
+    crinkleCookies.displayRecipe();
   }
   document.querySelector("#dessertRecipe3").onclick = function() {
-    toffee.displayRecipe();
+    christmasToffee.displayRecipe();
   }
   document.querySelector("#dessertRecipe4").onclick = function() {
-    cake.displayRecipe();
+    carrotCake.displayRecipe();
   }
   document.querySelector("#dessertRecipe5").onclick = function() {
-    cheeseC.displayRecipe();
+    cheeseCake.displayRecipe();
   }
 
 
   document.querySelector("#drinkRecipe1").onclick = function() {
-    cran.displayRecipe();
+    cranPunch.displayRecipe();
   }
   document.querySelector("#drinkRecipe2").onclick = function() {
-    cocoa.displayRecipe();
+    hotCocoa.displayRecipe();
   }
   document.querySelector("#drinkRecipe3").onclick = function() {
-    mimosa.displayRecipe();
+    christmasMimosa.displayRecipe();
   }
   document.querySelector("#drinkRecipe4").onclick = function() {
-    cider.displayRecipe();
+    appleCider.displayRecipe();
   }
   document.querySelector("#drinkRecipe5").onclick = function() {
-    punch.displayRecipe();
+    holidayPunch.displayRecipe();
   }
-
-
-
-
-
-
 
 } // end window.onload
