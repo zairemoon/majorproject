@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #006F57;
+  padding: 0;
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Playfair Display', serif;
+}
+
+#navbar {
+  background-color: #FAF8F8;
+  overflow: auto;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+  color: #006F57;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  font-size: 25px;
+}
+
+#navbar a:hover {
+  background-color: #CD1624;
+  color: white;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #FAF8F8;
+  z-index: 10;
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li li {
+  clear: left;
+  width: 100%;
+}
+
+#navbar ul ul {
+  display: none;
+  position: absolute;
+}
+
+#navbar ul li:hover ul {
+  display: block;
+}
+
+#titleBanner {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  background-image: none;
+  background-size: cover;
+  background-position: center center;
+}
+
+#titleBanner h1 {
+  color: white;
+  font-size: 300%;
+  top: 75px;
+  padding: 0;
+  margin: 0 0 2vw 2vw;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 100%;
+}
+
+#titleBanner h3 {
+  color: white;
+  font-size: 200%;
+  top: 75px;
+  padding: 0;
+  margin: 0 0 2vw 2vw;
+  position: relative;
+  text-align: center;
+  line-height: 100%;
+}
+
+#titleBanner h2 {
+  color: white;
+  font-size: 150%;
+  top: 75px;
+  padding: 0;
+  margin: 0 0 2vw 2vw;
+  position: relative;
+  text-align: center;
+  line-height: 100%;
+}
+
+#recipeColumns {
+  padding: 5vh;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 5vh;
+  padding-top: 5vh;
+  background-color: #006F57;
+  color: white;
+}
+
+#recipeColumns div#ingredients {
+  flex-basis: 50%;
+}
+
+#recipeColumns div#directions {
+  flex-basis: 50%;
+}
+
+#recipeColumns div#review {
+  flex-basis: 50%;
+}
+
+#recipeColumns h4 {
+  color: white;
+  font-size: 30px;
+  margin: 0;
+  background-color: #006F57;
+}
+
+}
