@@ -105,25 +105,25 @@ $recipes["puffPastry"]["directions"][] = "Bake in the preheated oven until wheel
 
 $recipes["puffPastry"]["review"][] = "I'm not a baker but found following these directions incredibly easy. The pastry is came out moist and airy. I think the nutmeg gives this pastry a nice spice.";
 
-$recipes["roastTurkey"] = array();
-$recipes["roastTurkey"]["ingredients"] = array();
-$recipes["roastTurkey"]["directions"] = array();
-$recipes["roastTurkey"]["review"] = array();
+$recipes["simpleTurkey"] = array();
+$recipes["simpleTurkey"]["ingredients"] = array();
+$recipes["simpleTurkey"]["directions"] = array();
+$recipes["simpleTurkey"]["review"] = array();
 
-$recipes["roastTurkey"]["ingredients"][] = "1 whole turkey";
-$recipes["roastTurkey"]["ingredients"][] = "8 cups prepared stuffing";
-$recipes["roastTurkey"]["ingredients"][] = "1/2 cup unsalted butter, softened";
-$recipes["roastTurkey"]["ingredients"][] = "salt and black pepper";
-$recipes["roastTurkey"]["ingredients"][] = "1 1/2 quarts turkey stock divided";
+$recipes["simpleTurkey"]["ingredients"][] = "1 whole turkey";
+$recipes["simpleTurkey"]["ingredients"][] = "8 cups prepared stuffing";
+$recipes["simpleTurkey"]["ingredients"][] = "1/2 cup unsalted butter, softened";
+$recipes["simpleTurkey"]["ingredients"][] = "salt and black pepper";
+$recipes["simpleTurkey"]["ingredients"][] = "1 1/2 quarts turkey stock divided";
 
-$recipes["roastTurkey"]["directions"][] = "Preheat the oven to 325 degrees F (165 degrees C). Place a rack in the lowest position of the oven";
-$recipes["roastTurkey"]["directions"][] = "Remove turkey neck and giblets. Rinse turkey and pat dry with paper towels. Place turkey, breast-side up, on a rack in a roasting pan. Loosely fill turkey cavity with stuffing. Rub skin with butter, then season with salt and pepper";
-$recipes["roastTurkey"]["directions"][] = "Pour 2 cups of turkey stock into the roasting pan. Loosely tent turkey with aluminum foil";
-$recipes["roastTurkey"]["directions"][] = "Roast turkey for 2 1/2 hours, basting with pan juices every 30 minutes. When drippings evaporate, add remaining stock to the pan, 1 to 2 cups at a time";
-$recipes["roastTurkey"]["directions"][] = "Remove foil and continue roasting until a meat thermometer inserted in thickest part of thigh reads 165 degrees F (75 degrees C), about 1 1/2 hours more";
-$recipes["roastTurkey"]["directions"][] = "Transfer turkey to a large serving platter. Let stand for 20 to 30 minutes before carving";
+$recipes["simpleTurkey"]["directions"][] = "Preheat the oven to 325 degrees F (165 degrees C). Place a rack in the lowest position of the oven";
+$recipes["simpleTurkey"]["directions"][] = "Remove turkey neck and giblets. Rinse turkey and pat dry with paper towels. Place turkey, breast-side up, on a rack in a roasting pan. Loosely fill turkey cavity with stuffing. Rub skin with butter, then season with salt and pepper";
+$recipes["simpleTurkey"]["directions"][] = "Pour 2 cups of turkey stock into the roasting pan. Loosely tent turkey with aluminum foil";
+$recipes["simpleTurkey"]["directions"][] = "Roast turkey for 2 1/2 hours, basting with pan juices every 30 minutes. When drippings evaporate, add remaining stock to the pan, 1 to 2 cups at a time";
+$recipes["simpleTurkey"]["directions"][] = "Remove foil and continue roasting until a meat thermometer inserted in thickest part of thigh reads 165 degrees F (75 degrees C), about 1 1/2 hours more";
+$recipes["simpleTurkey"]["directions"][] = "Transfer turkey to a large serving platter. Let stand for 20 to 30 minutes before carving";
 
-$recipes["roastTurkey"]["review"][] = "Super moist turkey. I usually have trouble making turkey let alone a moist one. Not too much seasoning but you won't miss it!";
+$recipes["simpleTurkey"]["review"][] = "Super moist turkey. I usually have trouble making turkey let alone a moist one. Not too much seasoning but you won't miss it!";
 
 $recipes["honeyHam"] = array();
 $recipes["honeyHam"]["ingredients"] = array();
@@ -187,36 +187,36 @@ $recipes["choppedPork"]["directions"][] = "Heat a large skillet over medium-high
 $recipes["choppedPork"]["directions"][] = "In a small bowl, combine brown sugar, salt and pepper, cinnamon and nutmeg. Add butter to skillet, and stir in brown sugar mixture and apples. Cover and cook until apples are just tender. Remove apples with a slotted spoon and arrange on top of chops. Keep warm in the preheated oven";
 $recipes["choppedPork"]["directions"][] = "Continue cooking sauce uncovered in skillet, until thickened slightly. Spoon sauce over apples and chops. Sprinkle with pecans";
 
-$recipes["roastRib"] = array();
-$recipes["roastRib"]["ingredients"] = array();
-$recipes["roastRib"]["directions"] = array();
-$recipes["roastRib"]["review"] = array();
+$recipes["fullRoast"] = array();
+$recipes["fullRoast"]["ingredients"] = array();
+$recipes["fullRoast"]["directions"] = array();
+$recipes["fullRoast"]["review"] = array();
 
-$recipes["roastRib"]["ingredients"][] = "1 (5 pound) beef standing rib roast, at room-temperature (let sit out for 1 hour before starting recipe)";
-$recipes["roastRib"]["ingredients"][] = "2 teaspoons salt";
-$recipes["roastRib"]["ingredients"][] = "1 teaspoon ground black pepper";
-$recipes["roastRib"]["ingredients"][] = "1 teaspoon garlic powder";
+$recipes["fullRoast"]["ingredients"][] = "1 (5 pound) beef standing rib roast, at room-temperature, let sit out for 1 hour before starting recipe";
+$recipes["fullRoast"]["ingredients"][] = "2 teaspoons salt";
+$recipes["fullRoast"]["ingredients"][] = "1 teaspoon ground black pepper";
+$recipes["fullRoast"]["ingredients"][] = "1 teaspoon garlic powder";
   
-$recipes["roastRib"]["directions"][] = "Preheat the oven to 375 degrees F (190 degrees C). Place a rack in a roasting pan";
-$recipes["roastRib"]["directions"][] = "Combine salt, pepper, and garlic powder in a small cup";
-$recipes["roastRib"]["directions"][] = "Place room-temperature roast on the rack in the roasting pan with the fatty side up and the rib side on the bottom. Rub the seasoning onto the roast";
-$recipes["roastRib"]["directions"][] = "Roast for 1 hour in the preheated oven. Turn the oven off and leave the roast inside for 3 hours, without opening the door";
-$recipes["roastRib"]["directions"][] = "Turn the oven back on to 375 degrees F (190 degrees C) and reheat the roast for 30 to 40 minutes. The internal temperature should be at least 145 degrees F (62 degrees C)";
-$recipes["roastRib"]["directions"][] = "Remove from the oven and let rest for 10 minutes before carving";
+$recipes["fullRoast"]["directions"][] = "Preheat the oven to 375 degrees F (190 degrees C). Place a rack in a roasting pan";
+$recipes["fullRoast"]["directions"][] = "Combine salt, pepper, and garlic powder in a small cup";
+$recipes["fullRoast"]["directions"][] = "Place room-temperature roast on the rack in the roasting pan with the fatty side up and the rib side on the bottom. Rub the seasoning onto the roast";
+$recipes["fullRoast"]["directions"][] = "Roast for 1 hour in the preheated oven. Turn the oven off and leave the roast inside for 3 hours, without opening the door";
+$recipes["fullRoast"]["directions"][] = "Turn the oven back on to 375 degrees F (190 degrees C) and reheat the roast for 30 to 40 minutes. The internal temperature should be at least 145 degrees F (62 degrees C)";
+$recipes["fullRoast"]["directions"][] = "Remove from the oven and let rest for 10 minutes before carving";
 
 $recipes["gratinPotato"] = array();
 $recipes["gratinPotato"]["ingredients"] = array();
 $recipes["gratinPotato"]["directions"] = array();
 $recipes["gratinPotato"]["review"] = array();
 
-$recipes["gratinPotatoes"]["ingredients"][] = "4 medium russet potatoes, thinly sliced";
-$recipes["gratinPotatoes"]["ingredients"][] = "1 medium onion, sliced into rings";
-$recipes["gratinPotatoes"]["ingredients"][] = "Salt and ground black pepper to taste";
-$recipes["gratinPotatoes"]["ingredients"][] = "3 tablespoons butter";
-$recipes["gratinPotatoes"]["ingredients"][] = "3 tablespoons all-purpose flour";
-$recipes["gratinPotatoes"]["ingredients"][] = "1/2 teaspoon salt";
-$recipes["gratinPotatoes"]["ingredients"][] = "2 cups milk";
-$recipes["gratinPotatoes"]["ingredients"][] = "1 ½ cups shredded Cheddar cheese";
+$recipes["gratinPotato"]["ingredients"][] = "4 medium russet potatoes, thinly sliced";
+$recipes["gratinPotato"]["ingredients"][] = "1 medium onion, sliced into rings";
+$recipes["gratinPotato"]["ingredients"][] = "Salt and ground black pepper to taste";
+$recipes["gratinPotato"]["ingredients"][] = "3 tablespoons butter";
+$recipes["gratinPotato"]["ingredients"][] = "3 tablespoons all-purpose flour";
+$recipes["gratinPotato"]["ingredients"][] = "1/2 teaspoon salt";
+$recipes["gratinPotato"]["ingredients"][] = "2 cups milk";
+$recipes["gratinPotato"]["ingredients"][] = "1 ½ cups shredded Cheddar cheese";
 
 $recipes["gratinPotato"]["directions"][] = "Preheat the oven to 400 degrees F (200 degrees C)";
 $recipes["gratinPotato"]["directions"][] = "Butter a 1-quart casserole dish. Layer 1/2 of the potatoes in the bottom of the prepared casserole dish; season with salt and pepper. Layer onion slices over top, then top with remaining potatoes. Season again with salt and pepper";
@@ -239,38 +239,38 @@ $recipes["greenBean"]["directions"][] = "Mix green beans and condensed soup toge
 $recipes["greenBean"]["directions"][] = "Stir 1/2 cup Cheddar cheese into the green bean mixture. Microwave on high for 2 to 3 minutes. Transfer mixture to a casserole dish and spread evenly over the bottom. Sprinkle French-fried onions over top, then sprinkle with remaining Cheddar";
 $recipes["greenBean"]["directions"][] = "Bake in the preheated oven until cheese is melted and the onions are just turning brown, about 10 minutes";
 
-$recipes["sweetPotato"] = array();
-$recipes["sweetPotato"]["ingredients"] = array();
-$recipes["sweetPotato"]["directions"] = array();
-$recipes["sweetPotato"]["review"] = array();
+$recipes["classicSweet"] = array();
+$recipes["classicSweet"]["ingredients"] = array();
+$recipes["classicSweet"]["directions"] = array();
+$recipes["classicSweet"]["review"] = array();
 
-$recipes["sweetPotato"]["ingredients"][] = "6 yellow-fleshed sweet potatoes";
-$recipes["sweetPotato"]["ingredients"][] = "1 cup packed brown sugar";
-$recipes["sweetPotato"]["ingredients"][] = "1/2 cup butter";
-$recipes["sweetPotato"]["ingredients"][] = "1/2 cup water";
-$recipes["sweetPotato"]["ingredients"][] = "1 teaspoon salt";
+$recipes["classicSweet"]["ingredients"][] = "6 yellow-fleshed sweet potatoes";
+$recipes["classicSweet"]["ingredients"][] = "1 cup packed brown sugar";
+$recipes["classicSweet"]["ingredients"][] = "1/2 cup butter";
+$recipes["classicSweet"]["ingredients"][] = "1/2 cup water";
+$recipes["classicSweet"]["ingredients"][] = "1 teaspoon salt";
   
-$recipes["sweetPotato"]["directions"][] = "Preheat the oven to 350 degrees F (175 degrees C)";
-$recipes["sweetPotato"]["directions"][] = "Place a steamer basket in a large pot and bring 2 inches of water to a boil. Place whole sweet potatoes in the steamer basket and cover. Cook until tender, about 30 minutes. Drain and cool";
-$recipes["sweetPotato"]["directions"][] = "Peel and slice sweet potatoes lengthwise into 1/2-inch slices. Place in a 9x13-inch baking dish";
-$recipes["sweetPotato"]["directions"][] = "Melt brown sugar, butter, water, and salt in a small saucepan over medium heat. When the sauce is bubbly and sugar is dissolved, pour over the potatoes";
-$recipes["sweetPotato"]["directions"][] = "Bake in the preheated oven for 1 hour, occasionally basting the potatoes with the brown sugar sauce";
+$recipes["classicSweet"]["directions"][] = "Preheat the oven to 350 degrees F (175 degrees C)";
+$recipes["classicSweet"]["directions"][] = "Place a steamer basket in a large pot and bring 2 inches of water to a boil. Place whole sweet potatoes in the steamer basket and cover. Cook until tender, about 30 minutes. Drain and cool";
+$recipes["classicSweet"]["directions"][] = "Peel and slice sweet potatoes lengthwise into 1/2-inch slices. Place in a 9x13-inch baking dish";
+$recipes["classicSweet"]["directions"][] = "Melt brown sugar, butter, water, and salt in a small saucepan over medium heat. When the sauce is bubbly and sugar is dissolved, pour over the potatoes";
+$recipes["classicSweet"]["directions"][] = "Bake in the preheated oven for 1 hour, occasionally basting the potatoes with the brown sugar sauce";
 
-$recipes["redPotato"] = array();
-$recipes["redPotato"]["ingredients"] = array();
-$recipes["redPotato"]["directions"] = array();
-$recipes["redPotato"]["review"] = array();
+$recipes["garlicMash"] = array();
+$recipes["garlicMash"]["ingredients"] = array();
+$recipes["garlicMash"]["directions"] = array();
+$recipes["garlicMash"]["review"] = array();
 
-$recipes["redPotato"]["ingredients"][] = "8 red potatoes, cubed";
-$recipes["redPotato"]["ingredients"][] = "2 teaspoons crushed garlic, divided";
-$recipes["redPotato"]["ingredients"][] = "1/2 cup butter";
-$recipes["redPotato"]["ingredients"][] = "1/4 cup half-and-half cream":
-$recipes["redPotato"]["ingredients"][] = "1/4 teaspoon steak seasoning";
-$recipes["redPotato"]["ingredients"][] = "1/4 teaspoon garlic powder";
-$recipes["redPotato"]["ingredients"][] = "1/8 teaspoon white sugar";
+$recipes["garlicMash"]["ingredients"][] = "8 red potatoes, cubed";
+$recipes["garlicMash"]["ingredients"][] = "2 teaspoons crushed garlic, divided";
+$recipes["garlicMash"]["ingredients"][] = "1/2 cup butter";
+$recipes["garlicMash"]["ingredients"][] = "1/4 cup half-and-half cream";
+$recipes["garlicMash"]["ingredients"][] = "1/4 teaspoon steak seasoning";
+$recipes["garlicMash"]["ingredients"][] = "1/4 teaspoon garlic powder";
+$recipes["garlicMash"]["ingredients"][] = "1/8 teaspoon white sugar";
 
-$recipes["redPotato"]["directions"][] = "Place potatoes into a large pot and fill with enough water to cover. Add 1 teaspoon crushed garlic to the water for flavor. Bring to a boil and cook until potatoes are easily pierced with a fork, about 10 minutes";
-$recipes["redPotato"]["directions"][] = "Drain potatoes and add butter. Mash until butter is melted. Mix in half-and-half, steak seasoning, garlic powder, sugar, and remaining crushed garlic. Mix potatoes with an electric mixer until smooth";
+$recipes["garlicMash"]["directions"][] = "Place potatoes into a large pot and fill with enough water to cover. Add 1 teaspoon crushed garlic to the water for flavor. Bring to a boil and cook until potatoes are easily pierced with a fork, about 10 minutes";
+$recipes["garlicMash"]["directions"][] = "Drain potatoes and add butter. Mash until butter is melted. Mix in half-and-half, steak seasoning, garlic powder, sugar, and remaining crushed garlic. Mix potatoes with an electric mixer until smooth";
 
 $recipes["MacCheese"] = array();
 $recipes["MacCheese"]["ingredients"] = array();
@@ -279,7 +279,7 @@ $recipes["MacCheese"]["review"] = array();
 
 $recipes["MacCheese"]["ingredients"][] = "8 ounces uncooked elbow macaroni";
 $recipes["MacCheese"]["ingredients"][] = "1/4 cup salted butter";
-$recipes["MacCheese"]["ingredients"][] = "3 tablespoons all-purpose flour";
+$recipes["macCheese"]["ingredients"][] = "3 tablespoons all-purpose flour";
 $recipes["MacCheese"]["ingredients"][] = "2 ½ cups milk, or more as needed";
 $recipes["MacCheese"]["ingredients"][] = "2 cups shredded sharp Cheddar cheese";
 $recipes["MacCheese"]["ingredients"][] = "1/2 cup finely grated Parmesan cheese";
@@ -294,27 +294,27 @@ $recipes["MacCheese"]["directions"][] = "Gradually whisk 2 1/2 cups milk into th
 $recipes["MacCheese"]["directions"][] = "Make the bread crumb topping: Melt 2 tablespoons butter in a skillet over medium heat. Add bread crumbs; cook and stir until well coated and browned. Spread bread crumbs over macaroni and cheese, then sprinkle with paprika";
 $recipes["MacCheese"]["directions"][] = "Bake in the preheated oven until topping is golden brown and macaroni and cheese is bubbling, about 30 minutes";
 
-$recipes["piePumpkin"] = array();
-$recipes["piePumpkin"]["ingredients"] = array();
-$recipes["piePumpkin"]["directions"] = array();
-$recipes["piePumpkin"]["review"] = array();
+$recipes["spicePie"] = array();
+$recipes["spicePie"]["ingredients"] = array();
+$recipes["spicePie"]["directions"] = array();
+$recipes["spicePie"]["review"] = array();
 
-$recipes["piePumpkin"]["ingredients"][] = "1 (15 ounce) can pumpkin puree";
-$recipes["piePumpkin"]["ingredients"][] = "1 (14 ounce) can EAGLE BRAND® Sweetened Condensed Milk";
-$recipes["piePumpkin"]["ingredients"][] = "2 large eggs";
-$recipes["piePumpkin"]["ingredients"][] = "1 teaspoon ground cinnamon";
-$recipes["piePumpkin"]["ingredients"][] = "1/2 teaspoon ground ginger";
-$recipes["piePumpkin"]["ingredients"][] = "1/2 teaspoon ground nutmeg";
-$recipes["piePumpkin"]["ingredients"][] = "1/2 teaspoon salt";
-$recipes["piePumpkin"]["ingredients"][] = "1 (9 inch) unbaked pie crust";
+$recipes["spicePie"]["ingredients"][] = "1 (15 ounce) can pumpkin puree";
+$recipes["spicePie"]["ingredients"][] = "1 (14 ounce) can Sweetened Condensed Milk";
+$recipes["spicePie"]["ingredients"][] = "2 large eggs";
+$recipes["spicePie"]["ingredients"][] = "1 teaspoon ground cinnamon";
+$recipes["spicePie"]["ingredients"][] = "1/2 teaspoon ground ginger";
+$recipes["spicePie"]["ingredients"][] = "1/2 teaspoon ground nutmeg";
+$recipes["spicePie"]["ingredients"][] = "1/2 teaspoon salt";
+$recipes["spicePie"]["ingredients"][] = "1 (9 inch) unbaked pie crust";
 
-$recipes["piePumpkin"]["directions"][] = "Preheat the oven to 425 degrees F (220 degrees C)";
-$recipes["piePumpkin"]["directions"][] = "Whisk pumpkin puree, condensed milk, eggs, cinnamon, ginger, nutmeg, and salt together in a medium bowl until smooth. Pour into crust";
-$recipes["piePumpkin"]["directions"][] = "Bake in the preheated oven for 15 minutes";
-$recipes["piePumpkin"]["directions"][] = "Reduce oven temperature to 350 degrees F (175 degrees C) and continue baking until a knife inserted 1 inch from the crust comes out clean, 35 to 40 minutes";
-$recipes["piePumpkin"]["directions"][] = "Let cool before serving";
+$recipes["spicePie"]["directions"][] = "Preheat the oven to 425 degrees F (220 degrees C)";
+$recipes["spicePie"]["directions"][] = "Whisk pumpkin puree, condensed milk, eggs, cinnamon, ginger, nutmeg, and salt together in a medium bowl until smooth. Pour into crust";
+$recipes["spicePie"]["directions"][] = "Bake in the preheated oven for 15 minutes";
+$recipes["spicePie"]["directions"][] = "Reduce oven temperature to 350 degrees F (175 degrees C) and continue baking until a knife inserted 1 inch from the crust comes out clean, 35 to 40 minutes";
+$recipes["spicePie"]["directions"][] = "Let cool before serving";
 
-  $recipes["crinkleCookies"] = array();
+$recipes["crinkleCookies"] = array();
 $recipes["crinkleCookies"]["ingredients"] = array();
 $recipes["crinkleCookies"]["directions"] = array();
 $recipes["crinkleCookies"]["review"] = array();
@@ -349,7 +349,7 @@ $recipes["christmasToffee"]["ingredients"][] = "1 cup finely chopped almonds";
 
 $recipes["christmasToffee"]["directions"][] = "Combine butter, sugar, and salt in a large, heavy-bottomed saucepan over medium heat; stir constantly in one direction until butter is melted, about 5 minutes";
 $recipes["christmasToffee"]["directions"][] = "Meanwhile, line a 9x13-inch baking dish with a sheet of parchment paper, letting it overhang two sides of the dish";
-$recipes["christmasToffee"]["directions"][] = "Once the butter has melted, stop stirring and bring mixture to a boil. Once boiling, cook, stirring only 2 to 3 times, until it turns a dark amber color and the temperature reaches 285 degrees F (137 degrees C) on a candy thermometer, 20 to 30 minutes":
+$recipes["christmasToffee"]["directions"][] = "Once the butter has melted, stop stirring and bring mixture to a boil. Once boiling, cook, stirring only 2 to 3 times, until it turns a dark amber color and the temperature reaches 285 degrees F (137 degrees C) on a candy thermometer, 20 to 30 minutes";
 $recipes["christmasToffee"]["directions"][] = "Immediately pour toffee into the prepared baking dish. Sprinkle chocolate chips on top and let sit until they soften, 1 to 2 minutes. Use a spatula to spread softened chocolate into a thin, even layer. Sprinkle nuts over the chocolate and press down slightly; wearing a plastic bag over your hand will minimize the mess";
 $recipes["christmasToffee"]["directions"][] = "Place toffee in the refrigerator until set, about 1 hour";
 $recipes["christmasToffee"]["directions"][] = "Lift hardened toffee out of the baking dish with the parchment paper. Break into pieces and store in an airtight container";
@@ -381,32 +381,32 @@ $recipes["carrotCake"]["directions"][] = "Beat sugar, oil, eggs, and 2 teaspoons
 $recipes["carrotCake"]["directions"][] = "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 40 minutes. Let cool in the pan for 10 minutes, then turn out onto a wire rack and cool completely";
 $recipes["carrotCake"]["directions"][] = "To make the frosting: Beat butter, cream cheese, confectioners' sugar, and 1 teaspoon vanilla together in a large bowl with an electric mixer until smooth and creamy. Stir in chopped pecans. Frost the cooled cake";
 
-$recipes["cheeseCake"] = array();
-$recipes["cheeseCake"]["ingredients"] = array();
-$recipes["cheeseCake"]["directions"] = array();
-$recipes["cheeseCake"]["review"] = array();
+$recipes["whiteRasp"] = array();
+$recipes["whiteRasp"]["ingredients"] = array();
+$recipes["whiteRasp"]["directions"] = array();
+$recipes["whiteRasp"]["review"] = array();
 
-$recipes["cheeseCake"]["ingredients"][] = "1 cup chocolate cookie crumbs";
-$recipes["cheeseCake"]["ingredients"][] = "1/4 cup butter, melted";
-$recipes["cheeseCake"]["ingredients"][] = "3 tablespoons white sugar";
-$recipes["cheeseCake"]["ingredients"][] = "1 (10 ounce) package frozen raspberries";
-$recipes["cheeseCake"]["ingredients"][] = "1/2 cup water";
-$recipes["cheeseCake"]["ingredients"][] = "2 tablespoons white sugar";
-$recipes["cheeseCake"]["ingredients"][] = "2 teaspoons cornstarch";
-$recipes["cheeseCake"]["ingredients"][] = "2 cups white chocolate chips";
-$recipes["cheeseCake"]["ingredients"][] = "1/2 cup half-and-half cream";
-$recipes["cheeseCake"]["ingredients"][] = "3 (8 ounce) packages cream cheese, softened";
-$recipes["cheeseCake"]["ingredients"][] = "1/2 cup white sugar";
-$recipes["cheeseCake"]["ingredients"][] = "3 large eggs";
-$recipes["cheeseCake"]["ingredients"][] = "1 teaspoon vanilla extract";
+$recipes["whiteRasp"]["ingredients"][] = "1 cup chocolate cookie crumbs";
+$recipes["whiteRasp"]["ingredients"][] = "1/4 cup butter, melted";
+$recipes["whiteRasp"]["ingredients"][] = "3 tablespoons white sugar";
+$recipes["whiteRasp"]["ingredients"][] = "1 (10 ounce) package frozen raspberries";
+$recipes["whiteRasp"]["ingredients"][] = "1/2 cup water";
+$recipes["whiteRasp"]["ingredients"][] = "2 tablespoons white sugar";
+$recipes["whiteRasp"]["ingredients"][] = "2 teaspoons cornstarch";
+$recipes["whiteRasp"]["ingredients"][] = "2 cups white chocolate chips";
+$recipes["whiteRasp"]["ingredients"][] = "1/2 cup half-and-half cream";
+$recipes["whiteRasp"]["ingredients"][] = "3 (8 ounce) packages cream cheese, softened";
+$recipes["whiteRasp"]["ingredients"][] = "1/2 cup white sugar";
+$recipes["whiteRasp"]["ingredients"][] = "3 large eggs";
+$recipes["whiteRasp"]["ingredients"][] = "1 teaspoon vanilla extract";
 
-$recipes["cheeseCake"]["directions"][] = "Make crust: Mix together cookie crumbs, melted butter, and sugar in a medium bowl. Press mixture into the bottom of a 9-inch springform pan";
-$recipes["cheeseCake"]["directions"][] = "Make sauce: Combine raspberries, water, sugar, and cornstarch in a saucepan. Bring to a boil and continue boiling until sauce is thick, about 5 minutes. Strain through a mesh strainer to remove seeds";
-$recipes["cheeseCake"]["directions"][] = "Preheat the oven to 325 degrees F (165 degrees C)";
-$recipes["cheeseCake"]["directions"][] = "Make cheesecake: Melt white chocolate chips with half-and-half in a metal bowl over a pan of simmering water; stir occasionally until smooth";
-$recipes["cheeseCake"]["directions"][] = "Mix together cream cheese and sugar in a large bowl until smooth. Beat in eggs one at a time. Blend in vanilla and melted white chocolate mixture. Pour 1/2 of the batter over crust. Spoon 3 tablespoons raspberry sauce over batter. Pour remaining cheesecake batter on top. Spoon 3 tablespoons raspberry sauce over batter. Swirl batter with the tip of a knife to create a marbled effect";
-$recipes["cheeseCake"]["directions"][] = "Bake in the preheated oven until filling is set, 55 to 60 minutes. Cool cheesecake at room temperature, then cover with plastic wrap and refrigerate until thoroughly chilled, 8 hours to overnight";
-$recipes["cheeseCake"]["directions"][] = "Remove cheesecake from the pan and serve with remaining raspberry sauce";
+$recipes["whiteRasp"]["directions"][] = "Make crust: Mix together cookie crumbs, melted butter, and sugar in a medium bowl. Press mixture into the bottom of a 9-inch springform pan";
+$recipes["whiteRasp"]["directions"][] = "Make sauce: Combine raspberries, water, sugar, and cornstarch in a saucepan. Bring to a boil and continue boiling until sauce is thick, about 5 minutes. Strain through a mesh strainer to remove seeds";
+$recipes["whiteRasp"]["directions"][] = "Preheat the oven to 325 degrees F (165 degrees C)";
+$recipes["whiteRasp"]["directions"][] = "Make cheesecake: Melt white chocolate chips with half-and-half in a metal bowl over a pan of simmering water; stir occasionally until smooth";
+$recipes["whiteRasp"]["directions"][] = "Mix together cream cheese and sugar in a large bowl until smooth. Beat in eggs one at a time. Blend in vanilla and melted white chocolate mixture. Pour 1/2 of the batter over crust. Spoon 3 tablespoons raspberry sauce over batter. Pour remaining cheesecake batter on top. Spoon 3 tablespoons raspberry sauce over batter. Swirl batter with the tip of a knife to create a marbled effect";
+$recipes["whiteRasp"]["directions"][] = "Bake in the preheated oven until filling is set, 55 to 60 minutes. Cool cheesecake at room temperature, then cover with plastic wrap and refrigerate until thoroughly chilled, 8 hours to overnight";
+$recipes["whiteRasp"]["directions"][] = "Remove cheesecake from the pan and serve with remaining raspberry sauce";
 
 $recipes["cranPunch"] = array();
 $recipes["cranPunch"]["ingredients"] = array();
@@ -421,32 +421,32 @@ $recipes["cranPunch"]["ingredients"][] = "6 cups ice";
 
 $recipes["cranPunch"]["directions"][] = "Half-fill 6 tall glasses with ice. Fill to about three quarters with cranberry-apple juice. Pour ginger ale evenly into the glasses. Stir gently. Decorate with lime and mint sprigs";
 
-$recipes["hotCocoa"] = array();
-$recipes["hotCocoa"]["ingredients"] = array();
-$recipes["hotCocoa"]["directions"] = array();
-$recipes["hotCocoa"]["review"] = array();
+$recipes["holidayDrink"] = array();
+$recipes["holidayDrink"]["ingredients"] = array();
+$recipes["holidayDrink"]["directions"] = array();
+$recipes["holidayDrink"]["review"] = array();
 
-$recipes["hotCocoa"]["ingredients"][] = "4 cups milk";
-$recipes["hotCocoa"]["ingredients"][] = "3 (1 ounce) squares semisweet chocolate, chopped";
-$recipes["hotCocoa"]["ingredients"][] = "4 peppermint candy canes, crushed";
-$recipes["hotCocoa"]["ingredients"][] = "1 cup whipped cream";
-$recipes["hotCocoa"]["ingredients"][] = "4 small peppermint candy canes";
+$recipes["holidayDrink"]["ingredients"][] = "1/3 cup white sugar";
+$recipes["holidayDrink"]["ingredients"][] = "1 quart cranberry juice";
+$recipes["holidayDrink"]["ingredients"][] = "2 cups unsweetened pineapple juice";
+$recipes["holidayDrink"]["ingredients"][] = "3 tablespoons almond extract";
+$recipes["holidayDrink"]["ingredients"][] = "1 (2 liter) bottle ginger ale";
 
-$recipes["hotCocoa"]["directions"][] = "In a saucepan, heat milk until hot, but not boiling. Whisk in the chocolate and crushed peppermint candies until melted and smooth";
-$recipes["hotCocoa"]["directions"][] = "Pour hot cocoa into four mugs, and garnish with whipped cream. Serve each with a candy-cane stirring stick";
+$recipes["holidayDrink"]["directions"][] = "In a large container, mix together sugar, cranberry juice, pineapple juice and almond extract. Refrigerate for 1 day";
+$recipes["holidayDrink"]["directions"][] = "To serve, pour juice mixture into a punch bowl. Stir in ginger ale";
 
-$recipes["christmasMimosa"] = array();
-$recipes["christmasMimosa"]["ingredients"] = array();
-$recipes["christmasMimosa"]["directions"] = array();
-$recipes["christmasMimosa"]["review"] = array();
+$recipes["orangeMimosa"] = array();
+$recipes["orangeMimosa"]["ingredients"] = array();
+$recipes["orangeMimosa"]["directions"] = array();
+$recipes["orangeMimosa"]["review"] = array();
 
-$recipes["christmasMimosa"]["ingredients"][] = "1/4 cup orange liqueur (such as Grand Marnier®)";
-$recipes["christmasMimosa"]["ingredients"][] = "2 tablespoons white sugar";
-$recipes["christmasMimosa"]["ingredients"][] = "1 cup orange juice";
-$recipes["christmasMimosa"]["ingredients"][] = "1 (750 milliliter) bottle brut champagne, chilled";
+$recipes["orangeMimosa"]["ingredients"][] = "1/4 cup orange liqueur (such as Grand Marnier)";
+$recipes["orangeMimosa"]["ingredients"][] = "2 tablespoons white sugar";
+$recipes["orangeMimosa"]["ingredients"][] = "1 cup orange juice";
+$recipes["orangeMimosa"]["ingredients"][] = "1 (750 milliliter) bottle brut champagne, chilled";
 
-$recipes["christmasMimosa"]["directions"][] = "Pour the orange liqueur in a shallow bowl; put the sugar in a saucer. Dip just the rims of 6 glasses in the orange liqueur and then in the sugar to form a thin sugared rim";
-$recipes["christmasMimosa"]["directions"][] = "Divide remaining orange liqueur and orange juice among the 6 prepared glasses. Top with champagne. Serve immediately";
+$recipes["orangeMimosa"]["directions"][] = "Pour the orange liqueur in a shallow bowl; put the sugar in a saucer. Dip just the rims of 6 glasses in the orange liqueur and then in the sugar to form a thin sugared rim";
+$recipes["orangeMimosa"]["directions"][] = "Divide remaining orange liqueur and orange juice among the 6 prepared glasses. Top with champagne. Serve immediately";
 
 $recipes["appleCider"] = array();
 $recipes["appleCider"]["ingredients"] = array();
@@ -466,20 +466,19 @@ $recipes["appleCider"]["directions"][] = "Place cinnamon sticks, cloves, allspic
 $recipes["appleCider"]["directions"][] = "Place the saucepan over moderate heat for 5 to 10 minutes, or until cider is very hot but not boiling";
 $recipes["appleCider"]["directions"][] = "Remove cider from the heat. Discard the spice bundle. Ladle cider into big cups or mugs, adding a fresh cinnamon stick to each serving if desired";
 
-$recipes["holidayPunch"] = array();
-$recipes["holidayPunch"]["ingredients"] = array();
-$recipes["holidayPunch"]["directions"] = array();
-$recipes["holidayPunch"]["review"] = array();
+$recipes["hotCocoa"] = array();
+$recipes["hotCocoa"]["ingredients"] = array();
+$recipes["hotCocoa"]["directions"] = array();
+$recipes["hotCocoa"]["review"] = array();
 
-$recipes["holidayPunch"]["ingredients"][] = "1/3 cup white sugar";
-$recipes["holidayPunch"]["ingredients"][] = "1 quart cranberry juice";
-$recipes["holidayPunch"]["ingredients"][] = "2 cups unsweetened pineapple juice";
-$recipes["holidayPunch"]["ingredients"][] = "3 tablespoons almond extract";
-$recipes["holidayPunch"]["ingredients"][] = "1 (2 liter) bottle ginger ale";
+$recipes["hotCocoa"]["ingredients"][] = "4 cups milk";
+$recipes["hotCocoa"]["ingredients"][] = "3 (1 ounce) squares semisweet chocolate, chopped";
+$recipes["hotCocoa"]["ingredients"][] = "4 peppermint candy canes, crushed";
+$recipes["hotCocoa"]["ingredients"][] = "1 cup whipped cream";
+$recipes["hotCocoa"]["ingredients"][] = "4 small peppermint candy canes";
 
-$recipes["holidayPunch"]["directions"][] = "In a large container, mix together sugar, cranberry juice, pineapple juice and almond extract. Refrigerate for 1 day";
-$recipes["holidayPunch"]["directions"][] = "To serve, pour juice mixture into a punch bowl. Stir in ginger ale";
-
+$recipes["hotCocoa"]["directions"][] = "In a saucepan, heat milk until hot, but not boiling. Whisk in the chocolate and crushed peppermint candies until melted and smooth";
+$recipes["hotCocoa"]["directions"][] = "Pour hot cocoa into four mugs, and garnish with whipped cream. Serve each with a candy-cane stirring stick";
 
 $requestedID = $_GET["recipeID"];
 $requestedID = htmlspecialchars($requestedID);
