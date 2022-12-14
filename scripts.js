@@ -272,7 +272,7 @@ orangeMimosa = new Recipe(
 appleCider = new Recipe(
   "Apple Cider",
   "https://images.unsplash.com/photo-1569383549224-4709f3502c94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
-  "Contributed by",
+  "Contributed by Jackie on allrecipes.com",
   "Hot Apple Cider",
   "appleCider"
 
@@ -281,7 +281,7 @@ appleCider = new Recipe(
 hotCocoa = new Recipe(
   "Cocoa",
   "https://images.unsplash.com/photo-1608735483220-4e7239a08ba5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2864&q=80",
-  "Contributed by",
+  "Contributed by Di on allrecipes.com",
   "Candy Cane Hot Chocolate",
   "hotCocoa"
 
