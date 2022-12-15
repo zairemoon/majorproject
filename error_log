@@ -2154,3 +2154,6 @@
 [13-Dec-2022 21:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zairemoo/public_html/majorproject/recipes.php on line 507
 [13-Dec-2022 21:48:54 UTC] PHP Warning:  Undefined array key "hotCocoa" in /home/zairemoo/public_html/majorproject/recipes.php on line 507
 [13-Dec-2022 21:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zairemoo/public_html/majorproject/recipes.php on line 507
+[14-Dec-2022 07:31:44 UTC] PHP Parse error:  syntax error, unexpected variable "$recipes" in /home/zairemoo/public_html/majorproject/recipes.php on line 146
+[14-Dec-2022 07:31:44 UTC] PHP Parse error:  syntax error, unexpected variable "$recipes" in /home/zairemoo/public_html/majorproject/recipes.php on line 146
+[14-Dec-2022 07:31:44 UTC] PHP Parse error:  syntax error, unexpected variable "$recipes" in /home/zairemoo/public_html/majorproject/recipes.php on line 146
